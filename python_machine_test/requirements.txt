@@ -1,6 +1,0 @@
-Django==4.2
-djangorestframework==3.14.0
-mysqlclient==2.1.0  # Use this if you are using MySQL as your database
-django-cors-headers==3.11.0  # For handling Cross-Origin Resource Sharing (CORS)
-djangorestframework-simplejwt==5.2.0  # For handling JWT authentication
-python-dotenv==1.0.0  # To load environment variables from a .env file (optional)
